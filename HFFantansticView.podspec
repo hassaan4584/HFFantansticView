@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'HFFantansticView'
-  s.version          = '0.0.2'
+  s.version          = '0.0.5'
   s.summary          = 'A background view that keeps changing its colors.'
  
   s.description      = <<-DESC
